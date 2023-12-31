@@ -1,0 +1,1 @@
+print(f"{' '.join((''.join(map(chr, i)) for i in ((j // (50 ** k) % 50 + 72 for k in range(l)) for j, l in zip((311351250, 118988, 5313999), (5, 3, 4)))))}, {' + '.join((f'{i}^3' for i in range(2, 10)))}.")
